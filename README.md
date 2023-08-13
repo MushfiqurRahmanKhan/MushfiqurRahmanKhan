@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Md.+Mushfiqur+Rahman+Khan;I+am+a+Graphic+Designer;and+an+Android+Developer&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+Md.+Mushfiqur+Rahman+Khan;I+am+an+UI+-+UX+Designer&center=true&width=500&height=50"></a>
 </p>
 
 
